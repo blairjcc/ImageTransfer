@@ -1,2 +1,2 @@
-Torch
-Torchvision
+torch
+torchvision
